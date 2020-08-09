@@ -1,0 +1,24 @@
+.InstagramLogo{
+    height: 40px;
+    padding: 10px;
+    
+}
+
+
+.header{
+    box-shadow: 0px 2px  rgb(179, 177, 177);
+    display: flex;
+    justify-content: space-around;
+    align-items: baseline;
+    align-items: center;
+}
+
+.searchbar{
+    display: flex;
+    background: rgb(248, 245, 245);
+    justify-content: center;
+    height: 25px;
+    width: 140px;
+    padding: 4px 8px;
+    
+}

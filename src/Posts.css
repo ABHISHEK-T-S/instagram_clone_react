@@ -1,0 +1,33 @@
+
+
+.postHeader{
+    display: flex;
+    align-items: center;
+    padding: 5px;
+}
+
+.post{
+    border-style: solid;
+    border-color: rgb(209, 205, 205);
+    border-width: 1px;
+    max-width: 600px;
+    align-items: center;
+    margin: auto;
+    margin-top: 30px;
+}
+
+.postPhoto{
+    width: 600px;
+}
+
+.postCaption{
+    display: flex;
+    align-items: center;
+    padding-bottom: 8px;
+}
+.postCaptionName{
+    padding: 4px 4px 4px 8px;
+}
+.avatar{
+    margin-right: 5px;
+}
