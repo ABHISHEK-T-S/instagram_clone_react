@@ -6,7 +6,7 @@ function Posts({ name, caption, imageUrl }) {
     return (
         <div className='post'>
             <div className="postHeader">
-                <Avatar className ="avatar">{name}</Avatar>
+                <Avatar className ="avatar">{name.charAt(0)}</Avatar>
                 <h5>{name}</h5>
             </div>
             <img className="postPhoto" src={imageUrl} alt="post "></img>
