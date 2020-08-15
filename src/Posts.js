@@ -12,7 +12,7 @@ function Posts({ name, caption, imageUrl }) {
             <img className="postPhoto" src={imageUrl} alt="post "></img>
             <div className="postFooter">
                 <div className='postCaption'>
-                    <strong class="postCaptionName">{name}</strong>
+                    <strong className="postCaptionName">{name}</strong>
                     <p>{caption}</p>
                 </div>
 

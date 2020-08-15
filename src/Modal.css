@@ -1,0 +1,30 @@
+TextField{
+    margin: 20px;
+}
+
+.sign-up{
+
+}
+
+.logo-img{
+    height: 30px;
+    display:  flex;
+    margin: auto;
+   
+}
+
+.modalsignin{
+    width: 400px;
+    display: flex;
+    margin: auto;
+}
+.TextField
+    {display : 'flex';margin : "auto" ; width : "350px";
+    padding: 20px;}
+
+    .signButtons{
+        display:  flex;
+        justify-content: space-between;
+        margin: auto;
+        
+    }
